@@ -54,8 +54,14 @@ public void test3() throws InterruptedException {
         Thread.sleep(2000);
 
         //SINAV SORUSU: driver.get ile navigate.to arasoındaki kücük fark nedir ?
-
 }
+
+
+
+
+
+
+
 
     @AfterClass
     public void tearDown(){
