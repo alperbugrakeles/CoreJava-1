@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class e2eTest {
+public class e2eTest5 {
 
     WebDriver driver;
 
@@ -85,7 +85,13 @@ public class e2eTest {
     }
 
 
-
+//        //İsimlendirme dersi
+//        class name büyük harfle baslamalı
+//        class Name
+//       // değişken isimleri kücük harf ile baslamalı
+//        String name;
+//        int number; gibi
+//
 
 
 
